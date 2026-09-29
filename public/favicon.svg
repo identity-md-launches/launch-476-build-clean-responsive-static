@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Swarm Alpha">
+  <rect width="64" height="64" rx="14" fill="#1f1b16"/>
+  <path d="M32 10 L52 22 L52 42 L32 54 L12 42 L12 22 Z" fill="none" stroke="#f2c14e" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="7" fill="#2f9e5b"/>
+</svg>
